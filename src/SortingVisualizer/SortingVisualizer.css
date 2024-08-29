@@ -1,0 +1,16 @@
+.array-container{
+    position: absolute;
+    left: 100px;
+}
+
+.array-bar{
+    width: 2px;
+    display: inline-block;
+    background-color: turquoise;
+    margin: 0 1px;
+}
+
+.my-button {
+    display: block;
+    margin: auto;
+}
